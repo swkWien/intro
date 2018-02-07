@@ -1,14 +1,12 @@
-# Coding Dojo Vienna - Intro
+# SWK Wien - Coding Dojo Vienna - Intro
 
 This is the repository holding the introduction presentation. This presentation should be used by moderators of a coding dojo in case participants are not familiar with the concept.
 
 ## How to Serve
 
 This presentation can be served in several ways:
-* Online at http://codingdojovie.github.io/intro
-* Local by
- * opening the index.html in a browser (works without slide-notes feature)
- * served by a local webserver by running ```grunt serve``` (requires [Node.js](http://www.nodejs.org/) & [Grunt.js](http://gruntjs.com/))
+* Online at http://swkWien.github.io/intro
+* Local by opening the index.html in a browser (works without slide-notes feature)
 
 ## How to Use
 
